@@ -20,4 +20,3 @@ Engineer with a focus on building efficient software solutions and leveraging AI
 ## 📫 How to reach me:
 - **LinkedIn:** www.linkedin.com/in/alejandro-meno-alvar-87131326a
 - **Location:** Ourense / A Coruña (Open to relocate)
-- **English Level:** B2/C1
